@@ -3,7 +3,7 @@
 An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources in Cybersecurity Community.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## `About Cybersecurity Community`
+## `About OWASP Cybersecurity Community`
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/OWASP/www-community)
 
